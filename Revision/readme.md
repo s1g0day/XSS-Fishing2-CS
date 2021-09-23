@@ -20,7 +20,7 @@
 修改`/config/flashVersion`这个文件基本上所有下载地址都在这里了，建议全部换成你的域名
 
 
-创建一个目录`/cdm/latest/`, 这个路径是上面flashVersion中写的路径，用来防止exe文件
+创建一个目录`/cdm/latest/`, 这个路径是上面flashVersion中写的路径，用来放置exe文件
 
 ## 第三步：上传xss.html弹窗调用页面
 主要用于后面的xss
