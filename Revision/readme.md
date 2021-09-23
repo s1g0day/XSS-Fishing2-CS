@@ -37,7 +37,7 @@
 ```
 ## 第四步：上传弹窗代码
 
-可以看到上面调用了 `flash.js`,我使用的是r00tSe7en师傅的开源弹窗代码：`https://github.com/r00tSe7en/Flash-Pop` , 因此在你上传这个flash.js
+可以看到上面调用了 `flash.js`,我使用的是r00tSe7en师傅的开源弹窗代码：`https://github.com/r00tSe7en/Flash-Pop` , 因此上传这个flash.js
 
 接着修改这个JS，搜索`onclick=window.location.href='https://www.se7ensec.cn/'>`  全JS代码只有这么一个
 
